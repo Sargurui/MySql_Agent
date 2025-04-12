@@ -2,7 +2,7 @@
 
 This application allows users to interact dynamically with a MySQL database using natural language queries. It leverages the power of the `LangChain` framework and the `ChatGroq` language model to process user queries and provide meaningful responses.
 
-##Screen Shot
+## Screen Shot
 ![image](https://github.com/user-attachments/assets/1d7e262a-d8f2-4afe-a83f-3fb8253f3c04)
 
 ## Features
